@@ -18,6 +18,12 @@ namespace Array{
             Console.WriteLine(Array[2]);
             Console.WriteLine(Array[3]);
             Console.WriteLine(Array[4]);
+            for(var item = 0;item< Array.Length ;item++){
+                Console.WriteLine(Array[item]);
+            }
+            
+                
+
             
             
            
