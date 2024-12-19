@@ -1,0 +1,14 @@
+c:\Users\arthu\Array\bin\Debug\net9.0\Array.exe
+C:\Users\arthu\Array\bin\Debug\net9.0\Array.deps.json
+C:\Users\arthu\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+c:\Users\arthu\Array\bin\Debug\net9.0\Array.dll
+c:\Users\arthu\Array\bin\Debug\net9.0\Array.pdb
+c:\Users\arthu\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arthu\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+c:\Users\arthu\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+c:\Users\arthu\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+c:\Users\arthu\Array\obj\Debug\net9.0\Array.dll
+c:\Users\arthu\Array\obj\Debug\net9.0\refint\Array.dll
+c:\Users\arthu\Array\obj\Debug\net9.0\Array.pdb
+C:\Users\arthu\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+C:\Users\arthu\Array\obj\Debug\net9.0\ref\Array.dll
