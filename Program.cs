@@ -21,6 +21,10 @@ namespace Array{
             for(var item = 0;item< Array.Length ;item++){
                 Console.WriteLine(Array[item]);
             }
+            foreach (var item in Array)//foreach e a melhor forma de percorrer o Array 
+            {
+                Console.WriteLine(Array[item]);
+            }
             
                 
 
